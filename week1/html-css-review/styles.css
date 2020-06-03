@@ -1,0 +1,17 @@
+body {
+    color: yellow;
+    background-color: skyblue;
+}
+
+#title {
+    text-decoration: underline;
+}
+
+.menu-item {
+    text-decoration: line-through;
+}
+
+.menu-item:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
